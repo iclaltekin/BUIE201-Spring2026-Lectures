@@ -5,4 +5,4 @@ def f(name):
             print(ss + "   " + str(sum([ord(s) for s in ss])))
 
 
-f ("ALI TAMER")
+f ("İCLAL TEKİN")
